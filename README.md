@@ -1,4 +1,4 @@
-# Counter_4bit_up-down
+# EXP 2 : Counter_4bit_up-down
 
 ## Aim:
 
@@ -238,5 +238,8 @@ It contains statements that map logical library names to their physical director
 ## Fig 11: Simulation Waveform Window
 
 ![Screenshot 2024-10-03 162347](https://github.com/user-attachments/assets/5facf1e3-e990-409e-8443-b15eb30b36fb)
+## Result:
+The 4bit up/down counter and verify the functionality using Test bench has been done verified.
+
 
 
